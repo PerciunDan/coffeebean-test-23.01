@@ -1,0 +1,83 @@
+.font-body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+.font-weight {
+  font-weight: 100;
+}
+
+.font-special {
+  font-family: "Montserrat", serif;
+  font-weight: 300;
+  letter-spacing: -1px;
+  font-size: 32px;
+}
+
+.letter-spacing {
+  letter-spacing: -1px;
+}
+
+@media (min-width: 992px) {
+  .vh-section {
+    min-height: 75vh;
+  }
+}
+/* ---------------------------------- */
+/*                Width               */
+/* ---------------------------------- */
+
+@media (min-width: 576px) {
+  .w-md-50 {
+    width: 50%;
+  }
+}
+
+/* ---------------------------------- */
+/*              Max Width             */
+/* ---------------------------------- */
+
+@media (min-width: 576px) {
+  .max-width {
+    max-width: 90%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .max-width {
+    max-width: 860px;
+  }
+}
+
+.px-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.font-size-xs {
+  font-size: 8px;
+}
+
+.font-size-sm {
+  font-size: 12px;
+}
+
+.margin {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.center {
+  width: 100%;
+}
+
+.bg-costum {
+  background-color: var(--background-color-black);
+}
+
+.max-width {
+  width: 100%;
+  max-width: 320px;
+}
