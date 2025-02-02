@@ -60,7 +60,7 @@
   font-size: 8px;
 }
 
-.font-size-sm {
+.font-size-small {
   font-size: 12px;
 }
 
@@ -80,4 +80,8 @@
 .max-width {
   width: 100%;
   max-width: 320px;
+}
+
+.margine {
+  margin-right: 31px;
 }
