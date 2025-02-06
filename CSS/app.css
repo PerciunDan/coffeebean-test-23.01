@@ -1,0 +1,21 @@
+@import url(/Css/include/reset.css);
+@import url(/Css/include/navbar.css);
+@import url(/Css/include/text.css);
+@import url(/Css/include/section.css);
+@import url(/Css/include/colors.css);
+
+.bg-logo {
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.color-red {
+  color: red;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}

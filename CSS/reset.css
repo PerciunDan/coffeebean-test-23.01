@@ -1,0 +1,31 @@
+ul {
+  padding: 0; /* reset the UL initial padding */
+  margin: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+p {
+  margin: 0;
+  font-weight: unset;
+}

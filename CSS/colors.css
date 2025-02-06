@@ -1,0 +1,16 @@
+/* color */
+.background-grey {
+  background: grey;
+}
+
+.background-accent {
+  background: red;
+}
+
+.color-dark {
+  color: black;
+}
+
+.color-light {
+  color: white;
+}
