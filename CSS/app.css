@@ -1,8 +1,8 @@
-@import url(/Css/include/reset.css);
-@import url(/Css/include/navbar.css);
-@import url(/Css/include/text.css);
-@import url(/Css/include/section.css);
-@import url(/Css/include/colors.css);
+@import url(/coffeebean-test-23.01/CSS/reset.css);
+@import url(/coffeebean-test-23.01/CSS/navbar.css);
+@import url(/coffeebean-test-23.01/CSS/text.css);
+@import url(/coffeebean-test-23.01/CSS/section.css);
+@import url(/coffeebean-test-23.01/CSS/colors.css);
 
 .bg-logo {
   font-weight: 300;
